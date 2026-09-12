@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CallRecorder" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#EDF7FC</item>
+        <item name="android:statusBarColor">#0B6EB8</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>

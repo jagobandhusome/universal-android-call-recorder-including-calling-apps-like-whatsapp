@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="recording_channel">Recording</string>
+    <string name="recording_channel_desc">Shown while a recording is in progress</string>
+    <string name="watch_channel">Call apps</string>
+    <string name="watch_channel_desc">Alerts when a calling app is open</string>
+</resources>
